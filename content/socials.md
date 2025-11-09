@@ -1,6 +1,6 @@
 +++
 date = '2025-11-09T21:20:16+01:00'
-draft = true
+draft = false
 title = 'Socials'
 menus = 'navbar'
 toc_position = 'right'

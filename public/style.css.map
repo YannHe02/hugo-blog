@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/yannhe/Downloads/Projects/go/hugo test/quickstart",
+	"sourceRoot": "/home/yannhe/Downloads/Projects/go/hugo_blog/blog",
 	"sources": [
 		"themes/hugo-theme-monochrome/assets/scss/core.scss",
 		"themes/hugo-theme-monochrome/assets/scss/purecss/_base.scss",
