@@ -9,5 +9,5 @@ html[data-theme="dark"] {
   --color-background-card: #363a4f;
   --color-header-menu-item-inactive: #a5adcb;
   --color-header-menu-item-active: #cad3f5;
-  --color-text-footer: #b8c0e0
+  --color-text-footer: #b8c0e0;
 }
