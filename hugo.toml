@@ -2,6 +2,8 @@ baseURL = 'https://yannhe02.github.io/'
 languageCode = 'de-de'
 title = 'YannHes Blog'
 theme = 'hugo-theme-monochrome'
+
+[params]
 color_scheme = 'dark'
 
 [caches]
