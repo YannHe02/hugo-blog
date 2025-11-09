@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YannHes Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/hugo-blog/</link>
     <description>Recent content on YannHes Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 09 Nov 2025 21:29:13 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 21:29:13 +0100</lastBuildDate><atom:link href="http://localhost:1313/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Socials</title>
-      <link>http://localhost:1313/socials/</link>
+      <link>http://localhost:1313/hugo-blog/socials/</link>
       <pubDate>Sun, 09 Nov 2025 21:20:16 +0100</pubDate>
       
-      <guid>http://localhost:1313/socials/</guid>
+      <guid>http://localhost:1313/hugo-blog/socials/</guid>
       <description>&lt;!-- end-chunk --&gt;
 &lt;!-- begin-chunk data-anchor=&#34;my-socials&#34; --&gt;
 
@@ -117,10 +117,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/hugo-blog/posts/my-first-post/</link>
       <pubDate>Thu, 06 Nov 2025 12:58:01 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/hugo-blog/posts/my-first-post/</guid>
       <description>&lt;!-- end-chunk --&gt;
 &lt;!-- begin-chunk data-anchor=&#34;introduction&#34; --&gt;
 
