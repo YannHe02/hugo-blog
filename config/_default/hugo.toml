@@ -3,9 +3,6 @@ languageCode = 'de-de'
 title = 'YannHes Blog'
 theme = 'hugo-theme-monochrome'
 
-[params]
-color_scheme = 'dark'
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
