@@ -1,7 +1,7 @@
 +++
 date = '2025-11-09T22:57:55+01:00'
 draft = false
-title = 'Blog_launch'
+title = 'Blog launch'
 +++
 
 # Launching my blog!
