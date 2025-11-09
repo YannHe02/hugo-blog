@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-de'
+title = 'YannHes Blog'
+theme = 'hugo-theme-monochrome'

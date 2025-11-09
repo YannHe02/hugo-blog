@@ -1,0 +1,12 @@
+html[data-theme="dark"] {
+  --color-background: #24273a;
+  --color-text: #cad3f5;
+  --color-border: #939ab7;
+  --color-border-collapsible-menu: #8087a2;
+  --color-link: #8aadf4;
+  --color-background-hover: #6e738d;
+  --color-text-secondary: #a5adcb;
+  --color-background-card: #363a4f;
+  --color-header-menu-item-inactive: #a5adcb;
+  --color-header-menu-item-active: #cad3f5;
+}
