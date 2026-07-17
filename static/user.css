@@ -11,3 +11,17 @@ html[data-theme="dark"] {
   --color-header-menu-item-active: #cad3f5;
   --color-text-footer: #b8c0e0;
 }
+
+html[data-theme="light"] {
+  --color-background: #eff1f5;               /* Base */
+  --color-text: #4c4f69;                     /* Text */
+  --color-border: #9ca0b0;                   /* Overlay0 */
+  --color-border-collapsible-menu: #8c8fa1;  /* Overlay1 */
+  --color-link: #1e66f5;                     /* Blue */
+  --color-background-hover: #ccd0da;         /* Surface1 */
+  --color-text-secondary: #5c5f77;           /* Subtext1 */
+  --color-background-card: #e6e9ef;          /* Mantle */
+  --color-header-menu-item-inactive: #6c6f85;/* Subtext0 */
+  --color-header-menu-item-active: #4c4f69;  /* Text */
+  --color-text-footer: #6c6f85;              /* Subtext0 */
+}

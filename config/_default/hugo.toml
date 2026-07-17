@@ -1,5 +1,5 @@
-baseURL = 'https://yannhe02.github.io/'
-languageCode = 'de-de'
+baseURL = 'https://blog.yannhe.de'
+locale = 'de-de'
 title = 'YannHes Blog'
 theme = 'hugo-theme-monochrome'
 
