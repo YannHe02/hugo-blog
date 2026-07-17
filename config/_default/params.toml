@@ -1,3 +1,5 @@
 footer = "Copyright © 2026 by YannHe"
-author = 'YannHe'
 color_scheme = 'dark'
+
+[author]
+author = 'YannHe'
